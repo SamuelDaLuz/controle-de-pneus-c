@@ -19,7 +19,7 @@ Um projeto eficiente para simular um sistema de controle de pneus de caminhões 
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem: C
-- ## 🧠 Paradigma do Projeto: **Imperativo e Procedural:** O desenvolvimento foi focado em sequências de instruções organizadas em funções e rotinas reutilizáveis para manipular os dados do programa.
+- Paradigma do Projeto: Imperativo e Procedural: O desenvolvimento foi focado em sequências de instruções organizadas em funções e rotinas reutilizáveis para manipular os dados do programa.
 - IDE / Editor: Code Blocks
 - Controle de Versão: GitHub
 
