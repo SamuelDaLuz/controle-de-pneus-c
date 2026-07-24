@@ -25,8 +25,6 @@ Um projeto eficiente para simular um sistema de controle de pneus de caminhões 
 
 ---
 
-## ⚙️ Como Executar o Projeto
-
 ## 🛠️ Como Executar o Projeto
 
 ### Pré-requisitos
