@@ -1,4 +1,4 @@
-🏦 [ Matrizes em Linguagem C , Sistema De Controle De Pneus]
+[ Matrizes em Linguagem C , Sistema De Controle De Pneus]
 
 > Status do Projeto: 🏁 Concluído 
 
@@ -6,7 +6,7 @@ Um projeto eficiente para simular um sistema de controle de pneus de caminhões 
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - [x] Tipo de eixo e preencher pneus
 - [x] Mostrar pneus/steps
@@ -24,8 +24,11 @@ Um projeto eficiente para simular um sistema de controle de pneus de caminhões 
 - Controle de Versão: GitHub
 
 ---
+## Ambiente de Execução
 
-## 🛠️ Como Executar o Projeto
+Este projeto foi desenvolvido em **Linguagem C** e é compatível com os principais compiladores (GCC/Clang) e ambientes de desenvolvimento:
 
-### Pré-requisitos
-* Um compilador C instalado no seu computador (como o **GCC**, que faz parte do **MinGW** no Windows, ou nativo no Linux/macOS).
+- **VS Code** *(com extensão C/C++ e GCC instalado)*
+- **Code::Blocks**
+- **Dev-C++**
+- **CLion**
